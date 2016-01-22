@@ -1,0 +1,1 @@
+umiesc pliki 'test' w folderze bin i uruchom Main
